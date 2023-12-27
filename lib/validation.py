@@ -1,4 +1,5 @@
 import numpy as np
+import scipy as sp
 from scipy.stats import norm, beta, ttest_ind_from_stats, t
 from math import ceil
 import statsmodels.stats.api as sms
